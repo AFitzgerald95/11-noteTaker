@@ -1,6 +1,15 @@
 [
     {
-        "title":"Test Title",
-        "text":"Test text"
+        "title":"Train New Hire",
+        "text":"0930"
+    },
+    {
+        "title":"All hands meeting",
+        "text": "1100"
+    },
+    {
+        "title": "lunch",
+        "text": "1200"
     }
 ]
+
